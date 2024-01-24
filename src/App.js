@@ -1,9 +1,10 @@
+import Hello from "./Hello";
 
 
 function App() {
   return (
     <div className="App">
-      <h1>Hello</h1>
+     <Hello></Hello>
     </div>
   );
 }
